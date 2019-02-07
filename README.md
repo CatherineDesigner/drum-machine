@@ -1,1 +1,1 @@
-# drum-machine
+Проект курса FreeCodeCamp «Dram-machine»
